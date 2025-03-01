@@ -29,9 +29,9 @@ This Morse Code Converter is a **user-friendly** web tool that lets you:
 ---
 
 ## 🔮 Future Improvements
-- 🚀 Download as File - Export conversions as a .txt file.
-- 🎵 Morse Code Sound Output - Hear the Morse code tones.
-- 🌎 Multilingual Support - Support Morse code conversion for different languages.
+- 🚀 **Download as File** - Export conversions as a .txt file.
+- 🎵 **Morse Code Sound Output** - Hear the Morse code tones.
+- 🌎 **Multilingual Support** - Support Morse code conversion for different languages.
 
 ---
 
