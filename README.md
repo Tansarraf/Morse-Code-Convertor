@@ -33,8 +33,12 @@ This Morse Code Converter is a **user-friendly** web tool that lets you:
 🎵 Morse Code Sound Output - Hear the Morse code tones.
 🌎 Multilingual Support - Support Morse code conversion for different languages.
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
 Have ideas for improvement? Feel free to fork the repository, make changes, and submit a pull request!
 
-📬 Contact
+---
+
+## 📬 Contact
 For any queries or suggestions, reach out via sarraftanishk4@gmail.com or open an issue on GitHub.
