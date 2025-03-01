@@ -22,9 +22,9 @@ This Morse Code Converter is a **user-friendly** web tool that lets you:
 ---
 
 ## ✨ Features
-✔ Two-Way Conversion - Convert both text → Morse and Morse → text.
-✔ Live Morse Code Reference - Quickly look up Morse symbols.
-✔ Bootstrap-Powered UI - Clean and responsive design.
+**✔ Two-Way Conversion** - Convert both text → Morse and Morse → text.
+**✔ Live Morse Code Reference** - Quickly look up Morse symbols.
+**✔ Bootstrap-Powered UI** - Clean and responsive design.
 
 ---
 
